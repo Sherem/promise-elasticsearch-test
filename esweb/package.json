@@ -1,0 +1,11 @@
+{
+  "name": "esweb",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "debate": "0.0.3",
+    "elasticsearch": "^10.0.1",
+    "html-entities": "^1.2.0",
+    "sprintf-js": "^1.0.3"
+  }
+}
